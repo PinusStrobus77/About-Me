@@ -2,6 +2,7 @@ h1{
     font-weight: 100px;
     font: monospace;
     size: 200px;
+    background-color: gray;
 }
 h2{
     font: monospace;
@@ -16,7 +17,11 @@ ul{
 }
 a{
     background-color: aliceblue;
+    font: monospace;
 }
 ol{
     background-color: antiquewhite;
+}
+li{
+    font: monospace;
 }
